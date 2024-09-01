@@ -1,4 +1,4 @@
-This is a sample project students can use during Matthew's Git class.
+This is a sample project which can be used during Nihal's Git Assignment.
 
 Here is an addition by me
 
